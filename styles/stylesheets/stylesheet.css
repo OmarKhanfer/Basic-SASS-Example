@@ -1,0 +1,23 @@
+/* line 8, ../sass/stylesheet.scss */
+label {
+  float: left;
+  font-family: arial;
+  color: #666;
+  clear: both;
+}
+/* line 13, ../sass/stylesheet.scss */
+label input, label textarea {
+  width: 100%;
+}
+/* line 16, ../sass/stylesheet.scss */
+label.lblName {
+  width: 120px;
+}
+/* line 20, ../sass/stylesheet.scss */
+label.lblTelephone {
+  width: 120px;
+}
+/* line 24, ../sass/stylesheet.scss */
+label.lblComments {
+  width: 150px;
+}
