@@ -1,7 +1,7 @@
 Basic-SASS-Example
 ==================
 
-Introduction:
+<h3>Introduction:</h3>
 ----------------------------
 This example sample example for creating stylesheet using SASS, for more instructions visit my blog <a target='_blank' href='http://omaraljaber.wordpress.com/2012/11/29/introduction-to-sass/'>Introduction to SASS</a>.
 
