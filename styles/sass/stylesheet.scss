@@ -1,0 +1,27 @@
+// 	------------------------------------------
+// 	Introduction to this file.
+// 	author: 	omar aljaber.
+// 	email: 		omar.aljaber@gmail.com.
+//	description:sass basic sample.
+// 	------------------------------------------
+	
+label {
+	float:			left;
+	font-family:	arial;
+	color:			#666;
+	clear:			both;
+	input,textarea {
+	width:			100%;
+	}
+	&.lblName {
+		width:		120px;
+	}
+	
+	&.lblTelephone {
+		width:		120px;
+	}
+	
+	&.lblComments {
+		width:		150px;
+	}
+}
